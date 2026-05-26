@@ -1,5 +1,5 @@
 {
-  "name": "Dino Survival 3D Shooter",
+  "name": "Bowo Survival 3D Shooter",
   "description": "Sebuah game tembak-tembakan dinosaurus 3D seru dengan berbagai pilihan senjata dan sistem bertahan hidup (survival) yang menantang.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

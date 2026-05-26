@@ -98,7 +98,7 @@ export const GameUI: React.FC<GameUIProps> = ({
             </span>
 
             <h1 className="text-4xl md:text-5xl font-black italic text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-emerald-200 to-lime-400 tracking-tighter leading-none mb-3">
-              DINO SURVIVAL 3D
+              BOWO SURVIVAL 3D
             </h1>
 
             <p className="text-zinc-400 text-sm mb-6 max-w-md mx-auto leading-relaxed">
